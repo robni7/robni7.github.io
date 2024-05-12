@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1AB9FA16-0F86-4E73-A59B-CC2C3EE2B60D</id>
+ <title>Page list Atom feed</title>
+ <updated>2023-08-05T20:55:53+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E82B4806-3760-4661-90C1-ABE93E5F7038</id>
+  <title>Thipom Digitalisatie</title>
+  <title xmlns="urn:iweb:">Thipom Digitalisatie</title>
+  <in-navbar xmlns="urn:iweb:">E82B4806-3760-4661-90C1-ABE93E5F7038</in-navbar>
+  <link rel="alternate" href="Thipom_Digitalisatie.html"/>
+  <updated>2023-08-05T20:55:53.001+02:00</updated>
+  <content>Thipom Digitalisatie</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:57E3564E-8C2E-4AA5-8A92-E67AB92C2CA9</id>
+  <title>Hoe werkt het?</title>
+  <title xmlns="urn:iweb:">Hoe werkt het?</title>
+  <in-navbar xmlns="urn:iweb:">57E3564E-8C2E-4AA5-8A92-E67AB92C2CA9</in-navbar>
+  <link rel="alternate" href="Hoe_werkt_het.html"/>
+  <updated>2023-08-05T20:55:53.002+02:00</updated>
+  <content>Hoe werkt het?</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9ACD3528-5D24-48A8-BEB9-FCE6C5739CA1</id>
+  <title>Ondersteunde gegevensdragers</title>
+  <title xmlns="urn:iweb:">Ondersteunde gegevensdragers</title>
+  <in-navbar xmlns="urn:iweb:">9ACD3528-5D24-48A8-BEB9-FCE6C5739CA1</in-navbar>
+  <link rel="alternate" href="Ondersteunde_gegevensdragers.html"/>
+  <updated>2023-08-05T20:55:53.003+02:00</updated>
+  <content>Ondersteunde gegevensdragers</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A8B49CE6-D597-4FD6-AB55-817503E2CF03</id>
+  <title>Tarieven</title>
+  <title xmlns="urn:iweb:">Tarieven</title>
+  <in-navbar xmlns="urn:iweb:">A8B49CE6-D597-4FD6-AB55-817503E2CF03</in-navbar>
+  <link rel="alternate" href="Tarieven.html"/>
+  <updated>2023-08-05T20:55:53.004+02:00</updated>
+  <content>Tarieven</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DCFB040A-244C-4F26-9B11-1AFC104577AB</id>
+  <title>Info en contact</title>
+  <title xmlns="urn:iweb:">Info en contact</title>
+  <in-navbar xmlns="urn:iweb:">DCFB040A-244C-4F26-9B11-1AFC104577AB</in-navbar>
+  <link rel="alternate" href="Info_en_contact.html"/>
+  <updated>2023-08-05T20:55:53.005+02:00</updated>
+  <content>Info en contact</content>
+ </entry>
+</feed>
